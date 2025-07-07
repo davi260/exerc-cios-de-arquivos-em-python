@@ -1,0 +1,10 @@
+Ana, 28 anos, trabalha como Engenheira.
+Carlos, 35 anos, trabalha como Professor.
+Mariana, 22 anos, trabalha como Estudante.
+João, 40 anos, trabalha como Médico.
+Beatriz, 31 anos, trabalha como Designer.
+Lucas, 27 anos, trabalha como Programador.
+Fernanda, 45 anos, trabalha como Advogada.
+Paulo, 38 anos, trabalha como Arquiteto.
+Larissa, 29 anos, trabalha como Jornalista.
+Rafael, 33 anos, trabalha como Empresário.

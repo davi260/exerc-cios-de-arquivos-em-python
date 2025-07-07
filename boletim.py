@@ -21,4 +21,9 @@ else:
     for linha in arquivo:
         dados = linha.strip().split(',')
         media = (float(dados[1]) + float(dados[2]) + float(dados[3]))/3
-        print(f"{dados} {media:.2f}")
+        if media >= 7:
+            print(f"Aluno:{dados[0]} Média:{media:.2f} Stuação: Aprovado!")
+        elif 6.9 >= media > 5:
+            print(f"Aluno:{dados[0]} Média:{media:.2f} Stuação: Em xame.")
+        elif media < 5:
+            print(f"Aluno: {dados[0]} Média: {media:.2f} Stuação: Reprovado!.")
